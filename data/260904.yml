@@ -7,7 +7,7 @@ about:
   head: ca81609
   archived: false
   latestVersion: v0.32.1
-  collectedAt: 2026-09-04T19:28:09Z
+  collectedAt: 2026-09-04T21:04:35Z
 timeline:
   created: 2019-10-22
   lastCommit: 2026-05-19
@@ -85,6 +85,54 @@ total:
   openIssue: 19
   commit: 197
 ---
+path: /home/runner/.x-repo/github.com/alajmo/mani
+collectedAt: 2026-09-04T21:04:36Z
+loc:
+  Go:
+    code: 13302
+    comments: 701
+    blanks: 2372
+    files: 104
+  Yaml:
+    code: 4000
+    comments: 4
+    blanks: 728
+    files: 62
+  Svg:
+    code: 2051
+    comments: 320
+    blanks: 1
+    files: 3
+  Bash:
+    code: 185
+    comments: 8
+    blanks: 32
+    files: 3
+  Sh:
+    code: 65
+    comments: 4
+    blanks: 17
+    files: 2
+  Makefile:
+    code: 52
+    comments: 2
+    blanks: 19
+    files: 1
+  Dockerfile:
+    code: 46
+    comments: 1
+    blanks: 20
+    files: 2
+  Markdown:
+    code: 0
+    comments: 1149
+    blanks: 546
+    files: 21
+total:
+  code: 20345
+  comments: 2318
+  blanks: 3865
+  files: 198
 ---
 date: "2026-08-24"
 repo:
