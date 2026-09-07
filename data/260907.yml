@@ -5,13 +5,13 @@ about:
   head: ca81609
   archived: false
   latestVersion: "v0.32.1"
-  collectedAt: 2026-09-07T04:40:30Z
+  collectedAt: 2026-09-07T19:47:11Z
 timeline:
   created: 2019-10-22
   lastCommit: 2026-05-19
   lastRelease: 2026-05-15
 popularity:
-  star: 761
+  star: 763
   watcher: 6
   fork: 43
   release: 24
@@ -84,7 +84,7 @@ total:
   commit: 197
 ---
 path: /home/runner/.x-repo/github.com/alajmo/mani
-collectedAt: 2026-09-07T04:40:31Z
+collectedAt: 2026-09-07T19:47:14Z
 loc:
   Go:
     code: 13302
@@ -235,7 +235,7 @@ checks:
       - 'Warn: 0 commits out of 14 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:40:32+00:00
+  collectedAt: 2026-09-07T19:47:25+00:00
   platform:
     darwin/arm64:
       name:  mani_0.32.1_darwin_arm64.tar.gz
