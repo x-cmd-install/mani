@@ -5,7 +5,7 @@ about:
   head: ca81609
   archived: false
   latestVersion: "v0.32.1"
-  collectedAt: 2026-09-08T01:54:57Z
+  collectedAt: 2026-09-08T04:46:26Z
 timeline:
   created: 2019-10-22
   lastCommit: 2026-05-19
@@ -84,7 +84,7 @@ total:
   commit: 197
 ---
 path: /home/runner/.x-repo/github.com/alajmo/mani
-collectedAt: 2026-09-08T01:54:57Z
+collectedAt: 2026-09-08T04:46:26Z
 loc:
   Go:
     code: 13302

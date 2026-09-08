@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1550,
       "digest": "sha256:9f291fe58910ff57b5c57235cf17eb164561e79afd8a793678b32fc79c4ab8db",
-      "download_count": 110,
+      "download_count": 111,
       "created_at": "2026-05-15T17:26:01Z",
       "updated_at": "2026-05-15T17:26:01Z",
       "browser_download_url": "https://github.com/alajmo/mani/releases/download/v0.32.1/checksums.txt"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3167196,
       "digest": "sha256:b4aee0b35938bc76a387c4baa7b68cc11287ceca6a8e8b3de8fdc7fae182fb81",
-      "download_count": 3839,
+      "download_count": 3846,
       "created_at": "2026-05-15T17:25:58Z",
       "updated_at": "2026-05-15T17:25:58Z",
       "browser_download_url": "https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_linux_amd64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3289382,
       "digest": "sha256:a8c97b23cb4ad5b162c3305a73fa194a79f1e7441649491a48790d173389d53f",
-      "download_count": 218,
+      "download_count": 219,
       "created_at": "2026-05-15T17:25:58Z",
       "updated_at": "2026-05-15T17:25:58Z",
       "browser_download_url": "https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_windows_amd64.zip"
