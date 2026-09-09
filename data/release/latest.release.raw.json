@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1550,
       "digest": "sha256:9f291fe58910ff57b5c57235cf17eb164561e79afd8a793678b32fc79c4ab8db",
-      "download_count": 112,
+      "download_count": 113,
       "created_at": "2026-05-15T17:26:01Z",
       "updated_at": "2026-05-15T17:26:01Z",
       "browser_download_url": "https://github.com/alajmo/mani/releases/download/v0.32.1/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3015150,
       "digest": "sha256:c5d98821de05e8b4b519ddc6a84b8dbe56d83017d29a030ef60ea55ef1c75a33",
-      "download_count": 574,
+      "download_count": 587,
       "created_at": "2026-05-15T17:25:59Z",
       "updated_at": "2026-05-15T17:25:59Z",
       "browser_download_url": "https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_darwin_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3167196,
       "digest": "sha256:b4aee0b35938bc76a387c4baa7b68cc11287ceca6a8e8b3de8fdc7fae182fb81",
-      "download_count": 3865,
+      "download_count": 3911,
       "created_at": "2026-05-15T17:25:58Z",
       "updated_at": "2026-05-15T17:25:58Z",
       "browser_download_url": "https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_linux_amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2906611,
       "digest": "sha256:19d28407d2c81be9c2ba844dad4ef5ad59764a44be5356af8fa0e99ed5dab817",
-      "download_count": 528,
+      "download_count": 533,
       "created_at": "2026-05-15T17:25:59Z",
       "updated_at": "2026-05-15T17:25:59Z",
       "browser_download_url": "https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_linux_arm64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3289382,
       "digest": "sha256:a8c97b23cb4ad5b162c3305a73fa194a79f1e7441649491a48790d173389d53f",
-      "download_count": 219,
+      "download_count": 220,
       "created_at": "2026-05-15T17:25:58Z",
       "updated_at": "2026-05-15T17:25:58Z",
       "browser_download_url": "https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_windows_amd64.zip"
