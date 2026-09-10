@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.32.1"
   latestRelease: "v0.32.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:43:30Z
+  collectedAt: 2026-09-10T16:27:43Z
 timeline:
   created: 2019-10-22
   lastCommit: 2026-05-19
@@ -88,7 +88,7 @@ total:
   commit: 197
 ---
 path: /home/runner/.x-repo/github.com/alajmo/mani
-collectedAt: 2026-09-10T04:43:31Z
+collectedAt: 2026-09-10T16:27:45Z
 loc:
   Go:
     code: 13302
