@@ -12,6 +12,28 @@
 x install mani
 ```
 
+## Code insight
+
+Total: **19,701** lines of code across **174** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 13,302 | 701 | 2,372 | 104 |
+| Yaml | 4,000 | 4 | 728 | 62 |
+| Svg | 2,051 | 320 | 1 | 3 |
+| Bash | 185 | 8 | 32 | 3 |
+| Sh | 65 | 4 | 17 | 2 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.2 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (2/10) — Found 7/29 approved changesets -- score normalized to 2
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/alajmo/mani>
@@ -23,6 +45,25 @@ x install mani
 - **Latest**: `v0.32.1` (2026-05-15)
 - **Last commit**: 2026-05-19
 - **Assets in release**: 17
+
+## Popularity
+
+- **Stars**: 763 · **Forks**: 43 · **Open issues**: 64 · **Contributors**: 9
+
+## Totals (cumulative)
+
+- **Releases**: 24 · **Merged PRs**: 54 · **Open PRs**: 4 · **Closed issues**: 45 · **Open issues**: 19 · **Commits**: 197
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 1 | 4 | 1 | 2 | 1 | 4 |
+| 360d | 2025-09-15 | 4 | 10 | 3 | 6 | 1 | 19 |
+| last720d | 2024-09-20 | 7 | 15 | 4 | 16 | 9 | 33 |
 
 ## Release assets
 
@@ -46,43 +87,14 @@ x install mani
 | [mani_0.32.1_windows_386.zip](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_windows_386.zip) | 3.0 MiB | `native/win/x64` |
 | [mani_0.32.1_windows_amd64.zip](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_windows_amd64.zip) | 3.1 MiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 763 · **Forks**: 43 · **Open issues**: 64 · **Contributors**: 9
+Reported by **11** distros on [repology.org](https://repology.org/project/mani). **6** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 24 · **Merged PRs**: 54 · **Open PRs**: 4 · **Closed issues**: 45 · **Open issues**: 19 · **Commits**: 197
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 4 | 10 | 3 | 6 | 1 | 19 |
-
-## Code size
-
-Total: **19,701** lines of code across **174** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 13,302 | 701 | 2,372 | 104 |
-| Yaml | 4,000 | 4 | 728 | 62 |
-| Svg | 2,051 | 320 | 1 | 3 |
-| Bash | 185 | 8 | 32 | 3 |
-| Sh | 65 | 4 | 17 | 2 |
-
-## OpenSSF Scorecard
-
-Overall score: **3.2 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (2/10) — Found 7/29 approved changesets -- score normalized to 2
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.32.1` | ✅ latest |
+| Nix unstable | `0.32.1` | ✅ latest |
 
 ## Improve this data
 
@@ -93,4 +105,4 @@ Install metadata for mani lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:27:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:22:50Z._
