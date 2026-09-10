@@ -4,7 +4,7 @@
 
 :robot: CLI tool to help you manage repositories
 
-![mani](https://repo.x-cmd.io/mani.svg)
+![mani](https://repo.x-cmd.io/mani.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,28 @@ x install mani
 - **最新版本**: `v0.32.1` (2026-05-15)
 - **最近提交**: 2026-05-19
 - **Release 含资产**: 17 个
-- **发布时间**: 2026-05-15T17:26:02Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/alajmo/mani/releases/download/v0.32.1/checksums.txt) | 1.5 KiB | `other` |
+| [mani_0.32.1_darwin_amd64.tar.gz](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_darwin_amd64.tar.gz) | 3.1 MiB | `native/darwin/x64` |
+| [mani_0.32.1_darwin_arm64.tar.gz](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_darwin_arm64.tar.gz) | 2.9 MiB | `native/darwin/arm64` |
+| [mani_0.32.1_freebsd_386.tar.gz](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_freebsd_386.tar.gz) | 2.8 MiB | `native/unknown` |
+| [mani_0.32.1_freebsd_amd64.tar.gz](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_freebsd_amd64.tar.gz) | 3.0 MiB | `native/linux/x64` |
+| [mani_0.32.1_linux_386.tar.gz](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_linux_386.tar.gz) | 2.8 MiB | `native/unknown` |
+| [mani_0.32.1_linux_amd64.tar.gz](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_linux_amd64.tar.gz) | 3.0 MiB | `native/linux/x64` |
+| [mani_0.32.1_linux_arm.tar.gz](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_linux_arm.tar.gz) | 2.8 MiB | `native/linux/arm` |
+| [mani_0.32.1_linux_arm64.tar.gz](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_linux_arm64.tar.gz) | 2.8 MiB | `native/linux/arm64` |
+| [mani_0.32.1_netbsd_386.tar.gz](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_netbsd_386.tar.gz) | 2.8 MiB | `native/unknown` |
+| [mani_0.32.1_netbsd_amd64.tar.gz](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_netbsd_amd64.tar.gz) | 3.0 MiB | `native/linux/x64` |
+| [mani_0.32.1_netbsd_arm.tar.gz](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_netbsd_arm.tar.gz) | 2.8 MiB | `native/linux/arm` |
+| [mani_0.32.1_netbsd_arm64.tar.gz](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_netbsd_arm64.tar.gz) | 2.8 MiB | `native/linux/arm64` |
+| [mani_0.32.1_openbsd_386.tar.gz](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_openbsd_386.tar.gz) | 2.8 MiB | `native/unknown` |
+| [mani_0.32.1_openbsd_amd64.tar.gz](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_openbsd_amd64.tar.gz) | 3.0 MiB | `native/linux/x64` |
+| [mani_0.32.1_windows_386.zip](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_windows_386.zip) | 3.0 MiB | `native/win/x64` |
+| [mani_0.32.1_windows_amd64.zip](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_windows_amd64.zip) | 3.1 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -72,4 +93,4 @@ mani 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:43:35Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:27:56Z._
