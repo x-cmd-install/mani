@@ -1,24 +1,75 @@
 # mani
 
+[中文版本](./README.cn.md)
+
 :robot: CLI tool to help you manage repositories
 
-- **Upstream**: <https://github.com/alajmo/mani>
-- **Homepage**: <https://manicli.com>
-- **Latest release**: `v0.32.1` (2026-05-15)
-- **Last commit**: 2026-05-19
-- **License**: MIT
-- **Stars**: 763 · **Forks**: 43 · **Open issues**: 64 · **Contributors**: 9
+![mani](https://repo.x-cmd.io/mani.svg)
 
-## Installation
+## Install
 
 ```sh
 x install mani
 ```
 
-See <https://x-cmd.com/install/mani> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/alajmo/mani>
+- **Homepage**: <https://manicli.com>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:51:30Z._
+- **Latest**: `v0.32.1` (2026-05-15)
+- **Last commit**: 2026-05-19
+- **Assets in release**: 17
+- **Published**: 2026-05-15T17:26:02Z
+
+## Popularity
+
+- **Stars**: 763 · **Forks**: 43 · **Open issues**: 64 · **Contributors**: 9
+
+## Totals (cumulative)
+
+- **Releases**: 24 · **Merged PRs**: 54 · **Open PRs**: 4 · **Closed issues**: 45 · **Open issues**: 19 · **Commits**: 197
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 4 | 10 | 3 | 6 | 1 | 19 |
+
+## Code size
+
+Total: **19,701** lines of code across **174** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 13,302 | 701 | 2,372 | 104 |
+| Yaml | 4,000 | 4 | 728 | 62 |
+| Svg | 2,051 | 320 | 1 | 3 |
+| Bash | 185 | 8 | 32 | 3 |
+| Sh | 65 | 4 | 17 | 2 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.2 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (2/10) — Found 7/29 approved changesets -- score normalized to 2
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
+## Improve this data
+
+Install metadata for mani lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mani` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/mani.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:43:35Z._
