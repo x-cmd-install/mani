@@ -30,9 +30,9 @@ Overall score: **3.2 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (2/10) — Found 7/29 approved changesets -- score normalized to 2
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-06-30 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-04-01 | 1 | 4 | 2 | 1 | 2 | 4 |
-| 360d | 2025-10-03 | 4 | 10 | 4 | 6 | 2 | 17 |
-| last720d | 2024-10-08 | 7 | 15 | 5 | 16 | 10 | 33 |
+| 30d | 2026-08-30 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-07-31 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-07-01 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-04-02 | 1 | 4 | 2 | 1 | 2 | 4 |
+| 360d | 2025-10-04 | 4 | 10 | 4 | 6 | 2 | 17 |
+| last720d | 2024-10-09 | 7 | 15 | 5 | 16 | 10 | 33 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for mani lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:25:19Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:53:37Z._
