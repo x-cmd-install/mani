@@ -30,9 +30,9 @@ Overall score: **3.2 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (2/10) — Found 7/29 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 775 · **Forks**: 43 · **Open issues**: 65 · **Contributors**: 9
+- **Stars**: 776 · **Forks**: 43 · **Open issues**: 65 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-13 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-07-14 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-04-15 | 1 | 4 | 2 | 0 | 2 | 4 |
-| 360d | 2025-10-17 | 4 | 10 | 4 | 6 | 2 | 17 |
-| last720d | 2024-10-22 | 7 | 15 | 5 | 16 | 10 | 33 |
+| 30d | 2026-09-13 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-08-14 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-07-15 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-04-16 | 1 | 3 | 1 | 0 | 2 | 4 |
+| 360d | 2025-10-18 | 4 | 10 | 4 | 6 | 2 | 17 |
+| last720d | 2024-10-23 | 7 | 15 | 5 | 16 | 10 | 33 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for mani lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:09:41Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T06:53:42Z._
