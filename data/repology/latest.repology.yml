@@ -1,0 +1,118 @@
+- repo: homebrew
+  srcname: mani
+  visiblename: mani
+  version: 0.32.1
+  origversion: null
+  status: newest
+  summary: CLI tool to help you manage repositories
+- repo: homebrew
+  srcname: mani
+  visiblename: mani
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: CLI tool to help you manage repositories
+- repo: aur
+  srcname: mani
+  binname: mani
+  visiblename: mani
+  version: 0.32.1
+  origversion: 0.32.1-1
+  status: newest
+  summary: A CLI tool that helps you manage multiple repositories
+  maintainers:
+    - boiko@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: mani-bin
+  binname: mani-bin
+  visiblename: mani-bin
+  version: 0.32.1
+  origversion: 0.32.1-1
+  status: newest
+  summary: A CLI tool that helps you manage multiple repositories
+  maintainers:
+    - razor.x@aur
+  licenses:
+    - MIT
+- repo: macports
+  srcname: devel/mani
+  binname: mani
+  visiblename: mani
+  version: 0.32.1
+  origversion: null
+  status: newest
+  summary: CLI tool to help you manage repositories
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - devel
+- repo: nix_stable_24_05
+  srcname: mani
+  visiblename: mani
+  version: 0.25.0
+  origversion: null
+  status: outdated
+  summary: CLI tool to help you manage multiple repositories
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: mani
+  visiblename: mani
+  version: 0.25.0
+  origversion: null
+  status: outdated
+  summary: CLI tool to help you manage multiple repositories
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: mani
+  visiblename: mani
+  version: 0.31.1
+  origversion: null
+  status: outdated
+  summary: CLI tool to help you manage multiple repositories
+  maintainers:
+    - phanirithvij2000@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: mani
+  visiblename: mani
+  version: 0.32.0
+  origversion: null
+  status: outdated
+  summary: CLI tool to help you manage multiple repositories
+  maintainers:
+    - phanirithvij2000@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: mani
+  visiblename: mani
+  version: 0.32.1
+  origversion: null
+  status: newest
+  summary: CLI tool to help you manage multiple repositories
+  maintainers:
+    - phanirithvij2000@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: mani
+  visiblename: mani
+  version: 0.32.1
+  origversion: null
+  status: newest
+  summary: CLI tool to help you manage multiple repositories
+  maintainers:
+    - phanirithvij2000@gmail.com
+  licenses:
+    - MIT
