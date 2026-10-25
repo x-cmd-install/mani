@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 781 · **Forks**: 43 · **Open issues**: 65 · **Contributors**: 9
+- **Stars**: 782 · **Forks**: 43 · **Open issues**: 65 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-25 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-07-26 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-04-27 | 1 | 3 | 1 | 0 | 1 | 4 |
-| 360d | 2025-10-29 | 4 | 10 | 4 | 6 | 2 | 17 |
-| last720d | 2024-11-03 | 7 | 15 | 5 | 15 | 10 | 33 |
+| 30d | 2026-09-25 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-26 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-07-27 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-04-28 | 1 | 3 | 1 | 0 | 1 | 4 |
+| 360d | 2025-10-30 | 4 | 10 | 4 | 6 | 2 | 16 |
+| last720d | 2024-11-04 | 7 | 15 | 5 | 15 | 10 | 33 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for mani lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:36:50Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:43:50Z._
