@@ -18,7 +18,7 @@ Total: **19,701** lines of code across **174** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 13,302 | 701 | 2,372 | 104 |
+| Go | 13,302 | 702 | 2,372 | 104 |
 | Yaml | 4,000 | 4 | 728 | 62 |
 | Svg | 2,051 | 320 | 1 | 3 |
 | Bash | 185 | 8 | 32 | 3 |
@@ -33,27 +33,27 @@ Total: **19,701** lines of code across **174** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.32.1` (2026-05-15)
-- **Last commit**: 2026-05-19
+- **Last commit**: 2026-11-24
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 796 · **Forks**: 44 · **Open issues**: 66 · **Contributors**: 9
+- **Stars**: 796 · **Forks**: 44 · **Open issues**: 66 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 54 · **Open PRs**: 7 · **Closed issues**: 45 · **Open issues**: 21 · **Commits**: 197
+- **Releases**: 24 · **Merged PRs**: 55 · **Open PRs**: 6 · **Closed issues**: 46 · **Open issues**: 20 · **Commits**: 198
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 3 | 0 | 2 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 3 | 0 | 2 | 0 |
-| 360d | 2025-11-29 | 3 | 10 | 6 | 5 | 3 | 16 |
-| last720d | 2024-12-04 | 7 | 15 | 7 | 15 | 11 | 33 |
+| 30d | 2026-10-26 | 0 | 1 | 1 | 1 | 0 | 1 |
+| last60d | 2026-09-26 | 0 | 1 | 1 | 1 | 0 | 1 |
+| 90d | 2026-08-27 | 0 | 1 | 2 | 1 | 1 | 1 |
+| last180d | 2026-05-29 | 0 | 1 | 2 | 1 | 1 | 1 |
+| 360d | 2025-11-30 | 3 | 11 | 5 | 6 | 2 | 17 |
+| last720d | 2024-12-05 | 7 | 16 | 6 | 16 | 10 | 34 |
 
 ## Release assets
 
@@ -77,15 +77,6 @@ Total: **19,701** lines of code across **174** files in the top 5 languages.
 | [mani_0.32.1_windows_386.zip](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_windows_386.zip) | 3.0 MiB | `native/win/x64` |
 | [mani_0.32.1_windows_amd64.zip](https://github.com/alajmo/mani/releases/download/v0.32.1/mani_0.32.1_windows_amd64.zip) | 3.1 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/mani). **6** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.32.1` | ✅ latest |
-| Nix unstable | `0.32.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for mani lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mani` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +86,4 @@ Install metadata for mani lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:06:20Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:30:56Z._
