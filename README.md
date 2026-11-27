@@ -24,6 +24,16 @@ Total: **19,701** lines of code across **174** files in the top 5 languages.
 | Bash | 185 | 8 | 32 | 3 |
 | Sh | 65 | 4 | 17 | 2 |
 
+## OpenSSF Scorecard
+
+Overall score: **3.2 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (2/10) — Found 7/29 approved changesets -- score normalized to 2
+- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/alajmo/mani>
@@ -38,7 +48,7 @@ Total: **19,701** lines of code across **174** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 796 · **Forks**: 44 · **Open issues**: 66 · **Contributors**: 11
+- **Stars**: 797 · **Forks**: 44 · **Open issues**: 66 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -48,12 +58,12 @@ Total: **19,701** lines of code across **174** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 1 | 1 | 1 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 1 | 1 | 1 | 0 | 0 |
-| 90d | 2026-08-28 | 0 | 1 | 2 | 1 | 1 | 0 |
-| last180d | 2026-05-30 | 0 | 1 | 2 | 1 | 1 | 0 |
-| 360d | 2025-12-01 | 3 | 11 | 5 | 6 | 2 | 0 |
-| last720d | 2024-12-06 | 7 | 16 | 6 | 16 | 10 | 34 |
+| 30d | 2026-10-28 | 0 | 1 | 1 | 1 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 1 | 1 | 1 | 0 | 0 |
+| 90d | 2026-08-29 | 0 | 1 | 2 | 1 | 1 | 0 |
+| last180d | 2026-05-31 | 0 | 1 | 2 | 1 | 1 | 0 |
+| 360d | 2025-12-02 | 3 | 11 | 5 | 6 | 2 | 0 |
+| last720d | 2024-12-07 | 7 | 16 | 6 | 16 | 10 | 34 |
 
 ## Release assets
 
@@ -86,4 +96,4 @@ Install metadata for mani lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:29:32Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:27:54Z._

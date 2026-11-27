@@ -24,6 +24,16 @@ x install mani
 | Bash | 185 | 8 | 32 | 3 |
 | Sh | 65 | 4 | 17 | 2 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **3.2 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (2/10) — Found 7/29 approved changesets -- score normalized to 2
+- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/alajmo/mani>
@@ -38,7 +48,7 @@ x install mani
 
 ## 流行度
 
-- **Star**: 796 · **Fork**: 44 · **开放 issue**: 66 · **贡献者**: 11
+- **Star**: 797 · **Fork**: 44 · **开放 issue**: 66 · **贡献者**: 11
 
 ## 累计统计
 
@@ -48,12 +58,12 @@ x install mani
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 1 | 1 | 1 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 1 | 1 | 1 | 0 | 0 |
-| 90d | 2026-08-28 | 0 | 1 | 2 | 1 | 1 | 0 |
-| last180d | 2026-05-30 | 0 | 1 | 2 | 1 | 1 | 0 |
-| 360d | 2025-12-01 | 3 | 11 | 5 | 6 | 2 | 0 |
-| last720d | 2024-12-06 | 7 | 16 | 6 | 16 | 10 | 34 |
+| 30d | 2026-10-28 | 0 | 1 | 1 | 1 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 1 | 1 | 1 | 0 | 0 |
+| 90d | 2026-08-29 | 0 | 1 | 2 | 1 | 1 | 0 |
+| last180d | 2026-05-31 | 0 | 1 | 2 | 1 | 1 | 0 |
+| 360d | 2025-12-02 | 3 | 11 | 5 | 6 | 2 | 0 |
+| last720d | 2024-12-07 | 7 | 16 | 6 | 16 | 10 | 34 |
 
 ## Release 资产
 
@@ -86,4 +96,4 @@ mani 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:29:33Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T08:27:55Z._
