@@ -14,12 +14,12 @@ x install mani
 
 ## Code insight
 
-Total: **19,701** lines of code across **174** files in the top 5 languages.
+Total: **24,156** lines of code across **207** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 13,302 | 702 | 2,372 | 104 |
-| Yaml | 4,000 | 4 | 728 | 62 |
+| Go | 16,305 | 895 | 2,675 | 113 |
+| Yaml | 5,452 | 4 | 1,058 | 86 |
 | Svg | 2,051 | 320 | 1 | 3 |
 | Bash | 185 | 8 | 32 | 3 |
 | Sh | 65 | 4 | 17 | 2 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.32.1` (2026-05-15)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-27
 - **Assets in release**: 17
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 55 · **Open PRs**: 6 · **Closed issues**: 46 · **Open issues**: 20 · **Commits**: 198
+- **Releases**: 24 · **Merged PRs**: 59 · **Open PRs**: 2 · **Closed issues**: 48 · **Open issues**: 18 · **Commits**: 202
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 1 | 1 | 1 | 0 | 0 |
-| last60d | 2026-09-28 | 0 | 1 | 1 | 1 | 0 | 0 |
-| 90d | 2026-08-29 | 0 | 1 | 2 | 1 | 1 | 0 |
-| last180d | 2026-05-31 | 0 | 1 | 2 | 1 | 1 | 0 |
-| 360d | 2025-12-02 | 3 | 11 | 5 | 6 | 2 | 0 |
-| last720d | 2024-12-07 | 7 | 16 | 6 | 16 | 10 | 34 |
+| 30d | 2026-10-29 | 0 | 5 | 1 | 1 | 0 | 5 |
+| last60d | 2026-09-29 | 0 | 5 | 1 | 1 | 0 | 5 |
+| 90d | 2026-08-30 | 0 | 5 | 1 | 1 | 1 | 5 |
+| last180d | 2026-06-01 | 0 | 5 | 1 | 1 | 1 | 5 |
+| 360d | 2025-12-03 | 3 | 15 | 1 | 6 | 2 | 21 |
+| last720d | 2024-12-08 | 7 | 20 | 2 | 18 | 8 | 38 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for mani lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:27:54Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:45:46Z._
